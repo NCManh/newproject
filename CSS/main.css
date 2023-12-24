@@ -1,0 +1,17 @@
+.hearder_navbar {
+    height: 120px;
+    background-color:rgb(247, 69, 46);
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.hearder_navbar-parent {
+    margin-left: 20px;
+
+}
+.hearder_navbar-child {
+    display: flex;
+    padding-left: 0;
+
+}
